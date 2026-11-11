@@ -1,0 +1,15 @@
+body{
+    color: white;
+    font-family: Calibri;
+    background-color: rgb(29, 29, 73);
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    background-color: black;
+    width: 100px;
+}
